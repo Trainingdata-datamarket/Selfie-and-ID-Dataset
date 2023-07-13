@@ -7,9 +7,9 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset Selfie Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and selfie videos of people. "Anti Spoofing Real Dataset" solves the tasks of training algorithms to distinguish real users from scammers. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
+We introduce a large image dataset Selfie Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and document photos of people. "Selfie Id Dataset" solves the tasks of training algorithms to identify users by their document photos. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
 
-The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
+The dataset consists of 5,591 sets of images (83,865 images in total) from 4,200+ unique people from 55 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
 ### The dataset includes 2 different types of images:
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
