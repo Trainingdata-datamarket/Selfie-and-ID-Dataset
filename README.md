@@ -15,6 +15,8 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
 - **Id Photos** - id photos of the person from 2 different documents.
 
+![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/95f5d14c-27e0-4023-8b0b-d496acea4d2c)
+
 ### Data in the dataset
 - People from 18 to 76 age old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
