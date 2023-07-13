@@ -11,17 +11,17 @@ We introduce a large image dataset Anti Spoofing Real for training a neural netw
 
 The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
-### The dataset includes 2 different types of files:
-- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
+### The dataset includes 2 different types of images:
+- **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
+- **Id Photos** - id photos of the person from 2 different documents.
 
 ### Data in the dataset
-- People from 18 to 94 age old are presented in the dataset.
-- For each person in the dataset age, country, gender and phone model is presented.
-- The data was mostly (approximately **90%**) collected indoor, however there are also selfies and videos made outdoors.
+- People from 18 to 76 age old are presented in the dataset.
+- For each person in the dataset age, country and gender is presented.
+- The data was mostly (approximately **90%**) collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial in **80%** of cases,  **5%** natural daily lightning, **5%** evening outdoor lighting, **10%** - dark indoor lighting.
-- People turn their heads, videos and photos are filmed so that the head takes up at least 1/2 of the frame.
-- Distance from the camera is approximately 30 centimeters.
+- People provided selfies where the head takes up at least 1/2 of the frame.
+- Distance from the camera is approximately 20-30 centimeters.
 
 ### People in the dataset
 ![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/3b0969ff-a56b-407f-9aad-900c67e86429)
@@ -46,7 +46,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 # Content
 ### The folder **"samples"** includes 30 folders:
 - corresponding to each person in the sample
-- containing of selfie and video of the individual
+- containing of 13 selfies and 2 photos from the documents of the individual
 
 ### File with the extension .csv
 includes the following information for each media file:
