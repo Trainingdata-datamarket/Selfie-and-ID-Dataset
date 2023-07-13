@@ -61,9 +61,6 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
 
-
-![live_video (2) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b992396a-a5d5-42fd-86bb-e12d8624c7d8)
-
 <a name="link"></a>
 # Links
 | Resource | Link |
