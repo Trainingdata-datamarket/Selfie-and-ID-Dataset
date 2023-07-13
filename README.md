@@ -44,7 +44,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 
 <a name="cont"></a>
 # Content
-### The folder **"samples"** includes 30 folders:
+### The folder **"Selfies ID Images dataset"** includes 29 folders (18 sets from caucasians and 11 from hispanics):
 - corresponding to each person in the sample
 - containing of 13 selfies and 2 photos from the documents of the individual
 
