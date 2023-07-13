@@ -21,7 +21,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 - People from 18 to 76 age old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
 - The data was mostly (approximately **90%**) collected indoor, however there are also selfies made outdoors.
-- The lighting is artificial in **80%** of cases,  **5%** natural daily lightning, **5%** evening outdoor lighting, **10%** - dark indoor lighting.
+- The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
 - People provided selfies where the head takes up at least 1/2 of the frame.
 - Distance from the camera is approximately 20-30 centimeters.
 
