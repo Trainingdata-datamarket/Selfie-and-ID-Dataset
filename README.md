@@ -20,7 +20,7 @@ The dataset consists of 5,591 sets of images (83,865 images in total) from 4,200
 ![Desktop - 1 (3)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f14bd950-620b-40ec-bd08-ffc883b63d0b)
 
 ### Data in the dataset
-- People from 18 to 76 age old are presented in the dataset.
+- People from 18 to 76 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
 - The data was mostly (approximately **90%**) collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
