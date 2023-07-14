@@ -7,7 +7,7 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset Selfie and Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and document photos of people. The list of documents, from which photos are taken: passports, foreign passports, rights, passes, medical certificates, membership/bank/transport cards, certificates, certificates, diplomas, etc. 
+We introduce a large image dataset called Selfie and Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and personal document photos of people. The list of documents, from which photos are taken: passports, foreign passports, driving licenses, passes, medical certificates, membership/bank/transport cards, certificates, certificates, diplomas, etc. 
 
 "Selfie and Id Dataset" can be utilized in several applications, including facial recognition algorithms, identity verification systems, forensic analysis, and deep learning research. By providing both personal and official photographs, this dataset offers a comprehensive resource for evaluating and improving the performance of algorithms in various real-world scenarios.
 
@@ -63,14 +63,14 @@ includes the following information for each media file:
 
 <a name="getdat"></a>
 # Get the Dataset
-This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
+This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
 
 <a name="link"></a>
 # Links
 | Resource | Link |
 | --- | --- |
-| TrainingData.pro | https://trainingdata.pro/data-market?utm_source=github |
-| TrainingData.solutions | https://trainingdata.solutions/data-market?utm_source=github |
+| TrainingData.pro | [trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github) |
+| TrainingData.solutions | [trainingdata.solutions/data-market](https://trainingdata.solutions/data-market?utm_source=github) |
 | Kaggle | https://www.kaggle.com/trainingdatapro |
 | HuggingFace | https://huggingface.co/TrainingDataPro |
 
