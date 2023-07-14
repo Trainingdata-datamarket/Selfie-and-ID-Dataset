@@ -11,7 +11,7 @@ We introduce a large image dataset called Selfie and Id Dataset for training a n
 
 "Selfie and Id Dataset" can be utilized in several applications, including facial recognition algorithms, identity verification systems, forensic analysis, and deep learning research. By providing both personal and official photographs, this dataset offers a comprehensive resource for evaluating and improving the performance of algorithms in various real-world scenarios.
 
-The dataset consists of 5,591 sets of images (83,865 images in total) from 4,200+ unique people from 55 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
+The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
 ### The dataset includes 2 different types of images:
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
