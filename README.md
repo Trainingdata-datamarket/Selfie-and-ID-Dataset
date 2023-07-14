@@ -22,7 +22,7 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 ### Data in the dataset
 - People from 18 to 76 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
-- The data was mostly (approximately **90%**) collected indoor, however there are also selfies made outdoors.
+- The data was mostly collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
 - People provided selfies where the head takes up at least 1/2 of the frame.
 - Distance from the camera is approximately 20-30 centimeters.
