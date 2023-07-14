@@ -7,7 +7,7 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset called Selfie and Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and personal document photos of people. The list of documents, from which photos are taken: passports, foreign passports, driving licenses, passes, medical certificates, membership/bank/transport cards, certificates, diplomas, etc. 
+We introduce a large image dataset called Selfie and Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and personal document photos of people. The list of documents, from which photos are taken: passports, foreign passports, driving licenses, medical certificates, membership/bank/transport cards, certificates, diplomas, etc. 
 
 "Selfie and Id Dataset" can be utilized in several applications, including facial recognition algorithms, identity verification systems, forensic analysis, and deep learning research. By providing both personal and official photographs, this dataset offers a comprehensive resource for evaluating and improving the performance of algorithms in various real-world scenarios.
 
