@@ -1,4 +1,4 @@
-# Selfie and Id Dataset
+# Selfie and ID Dataset
 1. [ About the dataset ](#about)
 2. [ Distributions ](#dist)
 3. [ Content ](#cont)
@@ -7,15 +7,15 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset called Selfie and Id Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and personal document photos of people. The list of documents, from which photos are taken: passports, foreign passports, driving licenses, medical certificates, membership/bank/transport cards, certificates, diplomas, etc. 
+We introduce a large image dataset called Selfie and ID Dataset for training a neural network to solve reidentification tasks. The dataset consists of selfie photos and personal document photos of people. The list of documents, from which photos are taken: passports, foreign passports, driving licenses, medical certificates, membership/bank/transport cards, certificates, diplomas, etc. 
 
-"Selfie and Id Dataset" can be utilized in several applications, including facial recognition algorithms, identity verification systems, forensic analysis, and deep learning research. By providing both personal and official photographs, this dataset offers a comprehensive resource for evaluating and improving the performance of algorithms in various real-world scenarios.
+"Selfie and ID Dataset" can be utilized in several applications, including facial recognition algorithms, identity verification systems, forensic analysis, and deep learning research. By providing both personal and official photographs, this dataset offers a comprehensive resource for evaluating and improving the performance of algorithms in various real-world scenarios.
 
-The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
+The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
 
 ### The dataset includes 2 different types of images:
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Id Photos** - id photos of the person from 2 different documents.
+- **ID Photos** - ID photos of the person from 2 different documents.
 
 ![Desktop - 1 (3)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f14bd950-620b-40ec-bd08-ffc883b63d0b)
 
