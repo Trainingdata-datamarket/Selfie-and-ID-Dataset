@@ -17,7 +17,8 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
 - **ID Photos** - ID photos of the person from 2 different documents.
 
-![Desktop - 1 (3)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f14bd950-620b-40ec-bd08-ffc883b63d0b)
+![Desktop - 1 (1)](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/d48f63c5-c2a2-44a7-9e11-bdd7d6fda6b7)
+
 
 ### Data in the dataset
 - People from 18 to 76 years old are presented in the dataset.
@@ -28,7 +29,7 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - Distance from the camera is approximately 20-30 centimeters.
 
 ### People in the dataset
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/3b0969ff-a56b-407f-9aad-900c67e86429)
+![Frame 14](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/c110f979-62fc-4169-86f2-38e4a70caa93)
 
 
 <a name="dist"></a>
@@ -36,15 +37,18 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 
 ### Gender of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f08c85bc-f167-45b3-ab80-0a3e5e8eef2c)
+![image](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/fbd0f79f-d8f7-44c5-80f5-ddf0fa1fab54)
+
 
 ### Ethnicity of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/fcfe41bd-095c-4bee-9f5c-66f4503f27ef)
+![image](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/1bbe1556-2e94-4033-a186-a03e82d0b1f0)
+
 
 ### Age of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/99b7b128-38e6-4930-af3e-3e519adece40)
+![image](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/89e8c00c-614f-4634-93ad-07f236833a2f)
+
 
 <a name="cont"></a>
 # Content
