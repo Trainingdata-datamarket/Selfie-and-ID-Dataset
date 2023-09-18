@@ -17,7 +17,8 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
 - **ID Photos** - ID photos of the person from 2 different documents.
 
-![Desktop - 1 (1)](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/d48f63c5-c2a2-44a7-9e11-bdd7d6fda6b7)
+![Frame 15](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/8ba4859b-f857-4f2e-99a7-3341e33409b5)
+
 
 
 ### Data in the dataset
@@ -68,6 +69,8 @@ includes the following information for each media file:
 <a name="getdat"></a>
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
+
+![ezgif com-gif-maker](https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset/assets/113421352/64f60b8b-8674-41cc-8d20-4eeb01c095b8)
 
 <a name="link"></a>
 # Links
